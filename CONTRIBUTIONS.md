@@ -2,6 +2,7 @@
 
 Automated log of daily development activity.
 
+- `2025-12-28` — Fixed minor inconsistency in logic
 - `2025-11-28` — Refactored module for better readability
 - `2025-11-18` — Refactored module for better readability
 - `2025-11-06` — Optimised repeated code patterns

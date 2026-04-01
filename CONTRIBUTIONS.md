@@ -2,6 +2,7 @@
 
 Automated log of daily development activity.
 
+- `2026-04-01` — Reviewed and cleaned up code structure
 - `2026-03-24` — Optimised repeated code patterns
 - `2026-03-10` — Code style improvements
 - `2026-02-22` — Added defensive checks

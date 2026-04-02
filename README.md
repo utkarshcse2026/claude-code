@@ -9,10 +9,9 @@
 [![React + Ink](https://img.shields.io/badge/UI-React_%2B_Ink-61DAFB?logo=react&logoColor=black)](#tech-stack)
 [![Files](https://img.shields.io/badge/~1,900_files-source_only-grey)](#directory-structure)
 [![MCP Server](https://img.shields.io/badge/MCP-Explorer_Server-blueviolet)](#-explore-with-mcp-server)
-[![npm](https://img.shields.io/npm/v/warrioraashuu-codemaster?label=npm&color=cb3837&logo=npm)](https://www.npmjs.com/package/warrioraashuu-codemaster)
-[![Twitter Follow](https://img.shields.io/twitter/follow/warrioraashuu?style=social)](https://twitter.com/intent/follow?screen_name=warrioraashuu)
+[![Twitter Follow](https://img.shields.io/twitter/follow/UtkarshAggarwal?style=social)](https://twitter.com/intent/follow?screen_name=Utkarsh12236)
 
-> The original unmodified leaked source is preserved in the [`backup` branch](https://github.com/codeaashu/claude-code/tree/backup).
+> The original unmodified leaked source is preserved here .
 
 </div>
 
@@ -85,30 +84,14 @@ Also see: [CONTRIBUTING.md](CONTRIBUTING.md) · [MCP Server README](mcp-server/R
 
 This repo ships an [MCP server](https://modelcontextprotocol.io/) that lets any MCP-compatible client (Claude Code, Claude Desktop, VS Code Copilot, Cursor) explore the full source interactively.
 
-### Install from npm
 
-The MCP server is published as [`warrioraashuu-codemaster`](https://www.npmjs.com/package/warrioraashuu-codemaster) on npm — no need to clone the repo:
-
-```bash
-# Claude Code
-claude mcp add warrioraashuu-codemaster -- npx -y warrioraashuu-codemaster
-```
-
-### One-liner setup (from source)
-
-```bash
-git clone https://github.com/codeaashu/claude-code.git ~/claude-code \
-  && cd ~/claude-code/mcp-server \
-  && npm install && npm run build \
-  && claude mcp add claude-code-explorer -- node ~/claude-code/mcp-server/dist/index.js
-```
 
 <details>
 <summary><strong>Step-by-step setup</strong></summary>
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/codeaashu/claude-code.git
+git clone https://github.com/utkarshcse2026/claude-code.git
 cd claude-code/mcp-server
 
 # 2. Install & build
@@ -443,17 +426,9 @@ Contributions to documentation, the MCP server, and exploration tooling are welc
 
 ## Disclaimer
 
-This repository archives source code leaked from Anthropic's npm registry on **2026-03-31**. All original source code is the property of [Anthropic](https://www.anthropic.com). This is not an official release and is not licensed for redistribution. Contact [aashuu ✦](https://x.com/warrioraashuu) for any comments.
+This repository archives source code leaked from Anthropic's npm registry on **2026-03-31**. All original source code is the property of [Anthropic](https://www.anthropic.com). This is not an official release and is not licensed for redistribution. Contact [Utkarsh Aggarwal✦](https://x.com/utkarsh12236) for any comments.
 
 ---
-
-<a href="https://www.star-history.com/?repos=codeaashu%2Fclaude-code&type=date&legend=bottom-right">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/image?repos=codeaashu/claude-code&type=date&theme=dark&legend=bottom-right" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/image?repos=codeaashu/claude-code&type=date&legend=bottom-right" />
-   <img alt="Star History Chart" src="https://api.star-history.com/image?repos=codeaashu/claude-code&type=date&legend=bottom-right" />
- </picture>
-</a>
 
 
 

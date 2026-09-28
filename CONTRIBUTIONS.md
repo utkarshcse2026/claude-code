@@ -2,6 +2,7 @@
 
 Automated log of daily development activity.
 
+- `2026-01-14` — Refactored repeated logic into helpers
 - `2025-12-26` — Improved code organization
 - `2025-12-20` — Improved documentation and comments
 - `2025-12-16` — Optimised repeated code patterns

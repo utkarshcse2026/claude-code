@@ -2,6 +2,7 @@
 
 Automated log of daily development activity.
 
+- `2025-11-14` — Optimised repeated code patterns
 - `2025-11-01` — Added missing null checks
 - `2025-10-27` — Optimised repeated code patterns
 - `2025-10-23` — Stabilised core logic

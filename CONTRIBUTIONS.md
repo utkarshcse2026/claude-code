@@ -2,6 +2,7 @@
 
 Automated log of daily development activity.
 
+- `2026-07-17` — Updated project structure
 - `2026-07-10` — Fixed minor inconsistency in logic
 - `2026-07-07` — General maintenance pass
 - `2026-07-06` — Updated project structure

@@ -2,6 +2,7 @@
 
 Automated log of daily development activity.
 
+- `2025-11-26` — Enhanced module documentation
 - `2025-11-25` — Refactored repeated logic into helpers
 - `2025-11-14` — Optimised repeated code patterns
 - `2025-11-01` — Added missing null checks

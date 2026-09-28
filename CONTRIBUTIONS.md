@@ -2,6 +2,7 @@
 
 Automated log of daily development activity.
 
+- `2025-10-27` — Optimised repeated code patterns
 - `2025-10-23` — Stabilised core logic
 - `2025-10-06` — Verified edge-case handling
 - `2025-09-29` — Added defensive checks

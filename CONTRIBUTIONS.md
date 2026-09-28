@@ -2,6 +2,7 @@
 
 Automated log of daily development activity.
 
+- `2026-07-31` — Stabilised core logic
 - `2026-07-26` — Code style improvements
 - `2026-07-22` — Added defensive checks
 - `2026-07-19` — Minor performance improvements

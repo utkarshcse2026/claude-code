@@ -1,3 +1,4 @@
+// Note (2026-09-29): Implementation follows project conventions
 import { useContext } from 'react'
 import StdinContext from '../components/StdinContext.js'
 
